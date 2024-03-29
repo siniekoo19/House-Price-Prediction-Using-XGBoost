@@ -1,4 +1,4 @@
-# ![House-Price-Prediction-Using-XGBoost](https://house-price-prediction-using-xgboost-webapp.streamlit.app/))
+# [House-Price-Prediction-Using-XGBoost](https://house-price-prediction-using-xgboost-webapp.streamlit.app/))
 ![Logo](https://github.com/siniekoo19/House-Price-Prediction-Using-XGBoost/blob/main/house.jpeg)
 
 A machine learning model to predict home prices using the XGBoost algorithm. The goal is to create a predictive model that can accurately estimate the market value of residential properties based on various features such as location, size, no. of beadrooms etc and market trends.
