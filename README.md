@@ -30,6 +30,8 @@ The project consists of two main folders:
 - The Streamlit application is deployed to a web server to make it accessible to users.
 - Users can access the application through a web browser to obtain predictions for home prices.
 
+## Authors
+[@siniekoo19](https://github.com/siniekoo19)
 
 ## 🚀 About Me
 👋 Hi there! I'm Sinchana Chatterjee, an enthusiastic and determined B.Tech student with a fervent aspiration to excel as a Data Scientist and Data Analyst.
