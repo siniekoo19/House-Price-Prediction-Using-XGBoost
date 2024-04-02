@@ -37,7 +37,7 @@ The project consists of two main folders:
 ## Acknowledgments
 
 - Special Thanks to [Slash Mark](https://slashmark.cloud/) for providing this Internship opportunity.
-- - Thanks to [kaggel](https://www.kaggle.com/datasets/shivachandel/kc-house-data) for providing the spam email dataset used in this project.
+- Thanks to [kaggel](https://www.kaggle.com/datasets/shivachandel/kc-house-data) for providing the spam email dataset used in this project.
 - Thanks to [streamlit community](https://house-price-prediction-using-xgboost-webapp.streamlit.app/) for providing a platform to deploy my webapp.
 - Thanks to the open-source community for their invaluable contributions to the tools and libraries used in this project.
 
